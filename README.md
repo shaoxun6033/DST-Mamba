@@ -16,7 +16,7 @@ This is an official implementation of [DST-Mamba: A Dual-Stream Temporal-Channel
 Our proposed DST-Mamba Network consists of three key modules: a Residual Lifting Wavelet Decomposition (RLWD) module that disentangles non-stationary workloads into multiscale trend and burst components, a Dual-Stream Mamba module that captures long-range temporal dynamics and time-varying cross-variable dependencies through Temporal Mamba and graph-guided Channel Mamba, and a FiLM-based gated fusion module that adaptively aligns and integrates temporal-channel features for robust and efficient forecasting.
 
 <div align=center>
-<img src="https://github.com/WSX378350448/DST-Mamba/blob/main/pic/architecture.pdf" width='45%'>
+<img src="https://github.com/shaoxun6033/DST-Mamba/blob/main/pic/architecture.pdf" width='45%'> 
 </div>
 
 
